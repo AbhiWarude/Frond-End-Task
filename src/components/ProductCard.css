@@ -1,0 +1,23 @@
+.ProductCard-container {
+    background-image: url('../../produts.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    
+  }
+  
+  /* ProductCard.css */
+
+/* Ensure Swiper navigation arrows are visible and styled correctly */
+.swiper-button-next,
+.swiper-button-prev {
+  color: #D29A5A; /* Match with your theme color */
+}
+
+/* Center the Swiper component horizontally and ensure full-width usage */
+.mySwiper {
+  width: 1000%;
+  max-width: 100%; /* Ensure it doesn't exceed the container width */
+  height: 100%; /* Adjust height as needed */
+
+}

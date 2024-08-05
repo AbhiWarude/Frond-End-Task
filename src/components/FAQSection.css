@@ -1,0 +1,8 @@
+.faqsection-container {
+    background-image: url('../../Faq.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    margin-top: -0%;
+    top: 0;
+  }
